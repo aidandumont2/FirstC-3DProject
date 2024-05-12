@@ -1,0 +1,3 @@
+D:\Ynov\B3\C++ 2D\First3DProject\x64\Debug\First3DProject.exe
+D:\Ynov\B3\C++ 2D\First3DProject\x64\Debug\First3DP.5DD5435A.Up2Date
+D:\Ynov\B3\C++ 2D\First3DProject\x64\Debug\glfw3.dll
